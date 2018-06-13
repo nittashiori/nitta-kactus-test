@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -7,7 +7,8 @@
     "green": 1,
     "red": 1
   },
-  "do_objectID": "5DBE3DD2-BDCA-408F-9AA7-F8F950371EC2",
+  "changeIdentifier": 7,
+  "do_objectID": "6D209C2B-7354-4786-88C6-4BD1A0291A53",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -20,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1080,
-    "width": 1920,
-    "x": -501,
-    "y": -163
+    "height": 22,
+    "width": 200,
+    "x": 100,
+    "y": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -34,32 +35,22 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "72F64C56-1459-474C-9FD3-EA2E0AC1A040"
-    },
-    {
-      "class": "group",
-      "id": "3AEA7B7A-2920-42FF-B189-8E961700CBC1"
+      "class": "text",
+      "id": "89F1B9F0-DA37-42AE-853C-6DB4CF9E7F00"
     }
   ],
-  "name": "pc",
-  "nameIsFixed": true,
-  "presetDictionary": {
-    "allowResizedMatching": 0,
-    "height": 1080,
-    "name": "Apple TV",
-    "offersLandscapeVariant": 0,
-    "width": 1920
-  },
+  "name": "font/16px-center",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -71,6 +62,7 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
+  "symbolID": "0D287ABF-05E4-4D70-9769-68B8920316AA",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
