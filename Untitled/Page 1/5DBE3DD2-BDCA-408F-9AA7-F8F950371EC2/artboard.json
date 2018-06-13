@@ -20,13 +20,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1080,
+    "height": 4423,
     "width": 1920,
     "x": -501,
     "y": -163
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -49,6 +49,70 @@
     {
       "class": "group",
       "id": "3AEA7B7A-2920-42FF-B189-8E961700CBC1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E9E51245-C70C-4069-99CD-45DA16050015"
+    },
+    {
+      "class": "text",
+      "id": "CC71910E-1B23-44EA-BCEF-F13CFB5FCC81"
+    },
+    {
+      "class": "text",
+      "id": "A771B960-38EF-4DA4-9A96-1A2DC7646654"
+    },
+    {
+      "class": "text",
+      "id": "FE8A278C-778A-4E17-B669-6B65F661A520"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "16327040-008A-4EBE-B800-FD59548BB224"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1834A324-D8C2-4E9D-AF80-36936A6F83E6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D15E059F-51CE-4575-B41F-35396FEDB007"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "95B4473E-9862-4FC6-9F58-B8ECA3149F50"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9160F857-D452-408F-8456-E6E50821E1C5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B7641F8A-2754-412E-A0B6-F7AE37FB18FB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EDE9ECFC-0342-43DA-BCFA-A61215B4D0AA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E523926C-690B-47F3-B5F1-A435348F341C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9943AECA-0F34-4F97-A7B0-06EB8A9A767E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5D5BA6D4-47FE-4761-B8F5-545C310B4C31"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1DE8AE34-51C0-4FF3-876C-1962249AF154"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "69DB502D-CDEB-463A-914D-2083F9AE98A8"
     }
   ],
   "name": "pc",
