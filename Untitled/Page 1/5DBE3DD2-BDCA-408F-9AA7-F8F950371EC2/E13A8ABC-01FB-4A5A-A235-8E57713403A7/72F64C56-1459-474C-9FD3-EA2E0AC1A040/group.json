@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -34,8 +34,8 @@
       "id": "C90A0848-3393-4754-8795-B591C85AF705"
     }
   ],
-  "name": "Group",
-  "nameIsFixed": false,
+  "name": "text",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
