@@ -13,29 +13,29 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 217,
-    "width": 266,
-    "x": 827,
-    "y": 432
+    "height": 1080,
+    "width": 1919,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "FD99369E-A425-4910-B4DC-CF45A225C013"
+      "class": "group",
+      "id": "6E26B815-04CF-4757-B687-12A8865C38EE"
     },
     {
-      "class": "text",
-      "id": "C90A0848-3393-4754-8795-B591C85AF705"
+      "class": "group",
+      "id": "673763A7-1952-45B5-B485-F67741F94F90"
     }
   ],
-  "name": "Group",
-  "nameIsFixed": false,
+  "name": "kv",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

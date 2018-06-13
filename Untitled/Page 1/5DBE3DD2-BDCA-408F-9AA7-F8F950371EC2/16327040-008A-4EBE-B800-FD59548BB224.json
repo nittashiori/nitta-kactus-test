@@ -1,0 +1,54 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "16327040-008A-4EBE-B800-FD59548BB224",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 456,
+    "width": 533,
+    "x": 100,
+    "y": 2195
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "product-item",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FACD94DC-7E1D-4A77-94D3-9E09C24544CC",
+      "overrideName": "BDB238AB-1D6B-4C98-8ACD-3F341D7E6FA3/00D7E4E2-7FB0-4AAF-B2DE-8591CABF4835_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/34a291ee49a2d1c5d25bb6dc79e8155a47f790b9.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "91F40A06-F223-481F-A6A0-B93AC52D759B",
+  "verticalSpacing": 0
+}

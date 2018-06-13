@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AvenirNext-Bold",
+              "name": "AvenirNext-Medium",
               "size": 28
             }
           },
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "ADF44FB7-BA89-424D-ADC2-0593C898D03D",
     "height": 38,
-    "width": 152,
+    "width": 147,
     "x": 40,
     "y": 31
   },
-  "glyphBounds": "{{0, 7}, {151, 22}}",
+  "glyphBounds": "{{1, 7}, {145, 22}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -78,14 +78,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AvenirNext-Bold",
+            "name": "AvenirNext-Medium",
             "size": 28
           }
         },

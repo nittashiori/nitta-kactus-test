@@ -1,0 +1,106 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "AvenirNext-Regular",
+              "size": 16
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 117,
+        "location": 0
+      }
+    ],
+    "string": "Long time no see! We finally released the biggest #prod we worked on last year. It was developed with our brand new… "
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "C85AB427-3B27-4F7E-8D9F-2542137ECE87",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2D1E1D73-9DF2-4708-9CC8-5A8FB840DC58",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E33CD2CB-A2A9-42E6-90A0-350587261423",
+    "height": 44,
+    "width": 533,
+    "x": 0,
+    "y": 412
+  },
+  "glyphBounds": "{{1, 3}, {515, 39}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Long time no see! We",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1EA19407-0C88-4961-A0D4-0AA89C1356AC",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "688C08B6-6372-4219-8032-34107BBAA0DD",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "AvenirNext-Regular",
+            "size": 16
+          }
+        },
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 1
+}

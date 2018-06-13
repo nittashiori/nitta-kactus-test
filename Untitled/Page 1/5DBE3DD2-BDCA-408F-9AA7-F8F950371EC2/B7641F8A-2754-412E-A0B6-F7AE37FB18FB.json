@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B7641F8A-2754-412E-A0B6-F7AE37FB18FB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "31A0B35D-7F44-434D-AE44-52431CCC43E6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C0456F5E-9321-44D0-A2EC-147A96E7BADF",
+    "height": 456,
+    "width": 533,
+    "x": 1287,
+    "y": 2731
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "product-item",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D22F3256-8155-47AE-A0EC-721F8CE09422",
+      "overrideName": "BDB238AB-1D6B-4C98-8ACD-3F341D7E6FA3/4B1E5D62-4D94-4CB0-AF65-E2CE35A95753_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/18810abb6c42038dd7e8b631d086671d1493e0f1.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DFE6BAE6-CC62-4638-BB6D-8F50227F7869",
+      "overrideName": "BDB238AB-1D6B-4C98-8ACD-3F341D7E6FA3/00D7E4E2-7FB0-4AAF-B2DE-8591CABF4835_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/00f7e1bbc2fc8044d75995a0141787113c73eafe.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3A16F446-E369-4606-BBE9-26FD615A5A11",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "91F40A06-F223-481F-A6A0-B93AC52D759B",
+  "verticalSpacing": 0
+}
